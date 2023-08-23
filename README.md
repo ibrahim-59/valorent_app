@@ -1,7 +1,7 @@
-# valorent_app
+
 
 ## Valorent app using bloc and mvm Pattern
-it is a pc game containes 4 Roles and every roles contains some Characters and every character have some ability
+it is a pc game containes 4 Roles and every roles contains  Characters or Agents  and every character have some ability
 
 
 <img src="https://github.com/ibrahim-59/valorent_app/assets/116106936/b22800f1-780c-48e9-bfbb-05eab8010edf" width="200" height="400">
